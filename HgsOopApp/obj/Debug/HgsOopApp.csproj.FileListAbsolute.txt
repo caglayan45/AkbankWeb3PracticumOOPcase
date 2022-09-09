@@ -1,0 +1,7 @@
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\obj\Debug\HgsOopApp.csproj.AssemblyReference.cache
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\obj\Debug\HgsOopApp.csproj.CoreCompileInputs.cache
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\bin\Debug\HgsOopApp.exe.config
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\bin\Debug\HgsOopApp.exe
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\bin\Debug\HgsOopApp.pdb
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\obj\Debug\HgsOopApp.exe
+C:\Users\cagla\source\repos\HgsOopApp\HgsOopApp\obj\Debug\HgsOopApp.pdb
